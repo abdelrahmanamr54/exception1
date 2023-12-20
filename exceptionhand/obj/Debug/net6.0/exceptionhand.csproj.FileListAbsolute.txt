@@ -1,0 +1,15 @@
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\bin\Debug\net6.0\exceptionhand.exe
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\bin\Debug\net6.0\exceptionhand.deps.json
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\bin\Debug\net6.0\exceptionhand.runtimeconfig.json
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\bin\Debug\net6.0\exceptionhand.dll
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\bin\Debug\net6.0\exceptionhand.pdb
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.csproj.AssemblyReference.cache
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.AssemblyInfoInputs.cache
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.AssemblyInfo.cs
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.csproj.CoreCompileInputs.cache
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.dll
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\refint\exceptionhand.dll
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.pdb
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\exceptionhand.genruntimeconfig.cache
+C:\Users\Abd Elrahman\source\repos\exceptionhand\exceptionhand\obj\Debug\net6.0\ref\exceptionhand.dll
